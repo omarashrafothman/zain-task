@@ -34,7 +34,7 @@ function Product({ name, price, desc, category, oldPrice, rate, reviews, image, 
                     <h4 className="text-lg font-semibold text-black">{name}</h4>
                     <div className="flex items-center mt-1">
                         <p className="text-primary font-bold text-lg ml-2">${price}</p>
-                        <p className="text-gray-500 line-through ml-3">${oldPrice}</p>
+                        {!oldPrice == null ? <p className="text-gray-500 line-through ml-3">${oldPrice}</p> : ""}
                     </div>
 
 

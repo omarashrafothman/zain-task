@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 
 
-function ProductImages({ images }) {
+function ProductImages({ images, infologo }) {
     const [index, setIndex] = useState(0);
 
     if (!images || images.length === 0) {
@@ -15,7 +15,7 @@ function ProductImages({ images }) {
         <div>
             <div className="h-[500px] relative">
                 <Image
-                    src={images[index]?.galleryItem}
+                    src={infologo}
                     alt={`Product Image ${index + 1}`}
                     fill
                     sizes="50vw"
