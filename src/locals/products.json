@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "name": "مكيف كولين 24 بارد سليت 17900 وحده ",
+    "category": "مكيفات سبليت",
+    "price": 20,
+    "rate": 4.5,
+    "description": "مدخل هواء كبير كبير يسحب في كمية كبيرة من الهواء. مروحة ذات قطر كبير مروحة كبيرة توفر تدفق هواء أقوى.",
+    "discount": 10,
+    "inStock": true,
+    "quantity": 10,
+    "gallery": [
+      {
+        "id": 1,
+        "galleryItem": "https://images.pexels.com/photos/3675622/pexels-photo-3675622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "galleryItem": "https://images.pexels.com/photos/42220/air-blade-blowing-chrome-42220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "galleryItem": "https://images.pexels.com/photos/20246332/pexels-photo-20246332/free-photo-of-man-hand-holding-electronics-device.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "galleryItem": "https://images.pexels.com/photos/42220/air-blade-blowing-chrome-42220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "attributes": [
+      {
+        "type":"color",
+        "colors": [
+          {
+            "colorName": "gray",
+            "value": "#ccc",
+            "available": true
+          }
+        ]
+      },
+      {
+           "type":"size",
+        "sizes": [
+          {
+            "sizeName": "small",
+            "value": "S",
+            "available": true
+          },
+          {
+            "sizeName": "medium",
+            "value": "M",
+            "available": true
+          },
+          {
+            "sizeName": "large",
+            "value": "L",
+            "available": true
+          }
+        ]
+      }
+    ],
+    "review": [
+      {
+        "id": 1,
+        "message": "جوده جيده جدا و أنصح بشراء هذا المنتج"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Elegant Blouse",
+    "category": "Women",
+    "price": 35,
+    "rate": 4.8,
+    "description": "An elegant blouse perfect for casual and formal occasions.",
+    "discount": 15,
+    "inStock": true,
+    "quantity": 8,
+    "gallery": [
+      {
+        "id": 1,
+        "galleryItem": "https://images.pexels.com/photos/2843486/pexels-photo-2843486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "galleryItem": "https://images.pexels.com/photos/2922449/pexels-photo-2922449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "galleryItem": "https://images.pexels.com/photos/2922448/pexels-photo-2922448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "galleryItem": "https://images.pexels.com/photos/2922447/pexels-photo-2922447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "attributes": [
+      {
+           "type":"color",
+        "colors": [
+          {
+            "colorName": "white",
+            "value": "#ffffff",
+            "available": true
+          },
+          {
+            "colorName": "black",
+            "value": "#000000",
+            "available": true
+          }
+        ]
+      },
+      {
+           "type":"size",
+        "sizes": [
+          {
+            "sizeName": "small",
+            "value": "S",
+            "available": true
+          },
+          {
+            "sizeName": "medium",
+            "value": "M",
+            "available": true
+          },
+          {
+            "sizeName": "large",
+            "value": "L",
+            "available": true
+          }
+        ]
+      }
+    ],
+    "review": [
+      {
+        "id": 1,
+        "message": "Looks fantastic and feels comfortable!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Wireless Earbuds",
+    "category": "Electronic",
+    "price": 50,
+    "rate": 4.7,
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "discount": 5,
+    "inStock": true,
+    "quantity": 20,
+    "gallery": [
+      {
+        "id": 1,
+        "galleryItem": "https://images.pexels.com/photos/3921836/pexels-photo-3921836.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "galleryItem": "https://images.pexels.com/photos/6281166/pexels-photo-6281166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "galleryItem": "https://images.pexels.com/photos/3921835/pexels-photo-3921835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "galleryItem": "https://images.pexels.com/photos/3921837/pexels-photo-3921837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "attributes": [
+      {
+           "type":"color",
+        "colors": [
+          {
+            "colorName": "black",
+            "value": "#000000",
+            "available": true
+          }
+        ]
+      },
+      {
+           "type":"size",
+        "sizes": []
+      }
+    ],
+    "review": [
+      {
+        "id": 1,
+        "message": "Sound quality is amazing, and the fit is great!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Modern Sofa",
+    "category": "Furniture",
+    "price": 200,
+    "rate": 4.9,
+    "description": "A modern and comfortable sofa for your living room.",
+    "discount": 20,
+    "inStock": true,
+    "quantity": 3,
+    "gallery": [
+      {
+        "id": 1,
+        "galleryItem": "https://images.pexels.com/photos/923192/pexels-photo-923192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "galleryItem": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "galleryItem": "https://images.pexels.com/photos/923193/pexels-photo-923193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "galleryItem": "https://images.pexels.com/photos/923194/pexels-photo-923194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "attributes": [
+      {
+      "type":"color",
+        "colors": [
+          {
+            "colorName": "blue",
+            "value": "#0000FF",
+            "available": true
+          },
+          {
+            "colorName": "gray",
+            "value": "#cccccc",
+            "available": true
+          }
+        ]
+      },
+      {
+           "type":"size",
+        "sizes": []
+      }
+    ],
+    "review": [
+      {
+        "id": 1,
+        "message": "Perfect for our living room. Stylish and cozy!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 25,
+    "rate": 4.6,
+    "description": "A durable and stylish leather wallet for daily use.",
+    "discount": 10,
+    "inStock": true,
+    "quantity": 15,
+    "gallery": [
+      {
+        "id": 1,
+        "galleryItem": "https://images.pexels.com/photos/28026890/pexels-photo-28026890/free-photo-of-hand-of-a-woman-touching-a-leather-purse.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "galleryItem": "https://images.pexels.com/photos/28027801/pexels-photo-28027801/free-photo-of-hands-of-a-woman-taking-out-a-business-card-from-a-wallet.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "galleryItem": "https://images.pexels.com/photos/28026888/pexels-photo-28026888/free-photo-of-a-brown-leather-wallet-on-white-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "galleryItem": "https://images.pexels.com/photos/28026886/pexels-photo-28026886/free-photo-of-leather-wallet-isolated-on-white-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "attributes": [
+      {
+           "type":"color",
+        "colors": [
+          {
+            "colorName": "brown",
+            "value": "#8B4513",
+            "available": true
+          }
+        ]
+      },
+      {
+           "type":"size",
+        "sizes": []
+      }
+    ],
+    "review": [
+      {
+        "id": 1,
+        "message": "Very stylish and practical. Love the quality!"
+      }
+    ]
+  }
+]
