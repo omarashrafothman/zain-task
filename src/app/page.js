@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import Product from "@/components/product/Product";
 import Banner from "../components/banner/Banner";
+import NewArrival from "@/components/newArraival/NewArrival";
 
 // export const generateMetadata = () => ({
 //   title: "تسوق احدث الاجهزه المنزليه",
@@ -64,6 +65,10 @@ export default function Home() {
           </div>
         )}
       </section>
+
+      <div className="w-[90%] mx-auto ">
+        <NewArrival />
+      </div>
     </div>
   );
 }

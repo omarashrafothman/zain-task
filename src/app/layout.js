@@ -1,6 +1,7 @@
 import { Cairo } from "next/font/google";
 import "./globals.css";
 import Header from "../components/header/Header.jsx";
+import Footer from "@/components/footer/Footer";
 
 
 const cairo = Cairo({
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
       >
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );
